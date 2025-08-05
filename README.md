@@ -1,7 +1,7 @@
 ![](logo.png)
 
 <div align="center">     
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fboostcamp-ai-tech-4%2Fai-tech-interview&count_bg=%23B8B8B8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+  <a href="https://hits.sh/github.com/boost-devs/ai-tech-interview/"><img alt="Hits" src="https://hits.sh/github.com/boost-devs/ai-tech-interview.svg?view=today-total&color=dfb317"/></a>
   <img src="https://img.shields.io/github/forks/boostcamp-ai-tech-4/ai-tech-interview" alt="forks"/>
   <img src="https://img.shields.io/github/stars/boostcamp-ai-tech-4/ai-tech-interview?color=yellow" alt="stars"/>
   <img src="https://img.shields.io/github/issues-pr/boostcamp-ai-tech-4/ai-tech-interview?color=red" alt="pr"/>
