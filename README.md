@@ -29,7 +29,7 @@
 
 ---
 
-## Interview Questions
+## Interview Questions ㅁㄴㅇㄹ
 
 <details>
 <summary><a href="./answers/1-statistics-math.md"><strong>📈 통계/수학</strong></a></summary>
